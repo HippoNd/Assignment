@@ -1,5 +1,5 @@
-How to use /n
-Step 1: Open Terminal and clone project /n
-Step 2: git checkout develop /n
-Step 3: yarn /n
+How to use <space><space>
+Step 1: Open Terminal and clone project <space><space>
+Step 2: git checkout develop <space><space>
+Step 3: yarn <space><space>
 Step 4: yarn start
