@@ -169,7 +169,7 @@ function App() {
           />
           <TablePagination
             component="div"
-            count={100}
+            count={filter.length}
             page={page}
             onPageChange={handleChangePage}
             rowsPerPage={rowsPerPage}
